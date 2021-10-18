@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micropyre
 - 👀 I’m interested in Dota and Python.
-- 🌱 I’m currently learning Neural Networks and Deep Learning.
+- 🌱 I’m currently learning Audio DSP and Deep Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
